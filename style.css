@@ -105,6 +105,10 @@ img {
     display: block;
 }
 
+#header-phone {
+    color: black;
+}
+
 .container {
     width: 100%;
     max-width: 1200px;
